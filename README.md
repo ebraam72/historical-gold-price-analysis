@@ -27,11 +27,6 @@ interactive visualizations.
 - Data Visualization
 - Data Cleaning & Transformation
 
----
-
-## Dashboard
-
-![Historical Gold Price Dashboard](Screenshots/dashboard-overview.png)
 
 ---
 
@@ -78,11 +73,3 @@ The dashboard was developed using:
 
 ---
 
-## Project Structure
-
-```text
-PowerBI/        → Power BI project file
-Excel/          → Excel source/data preparation
-Dataset/        → Dataset
-Screenshots/    → Dashboard screenshots
-Documentation/  → Project documentation
